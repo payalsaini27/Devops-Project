@@ -23,6 +23,5 @@ public class App {
 	System.out.println("Title is: " +title);
 	System.out.println("Test Succeeded!!");
 	driver.quit();
-	
-	}
+		}
 	}
