@@ -24,5 +24,4 @@ public class App {
 	System.out.println("Test Succeeded!!");
 	driver.quit();
 	}
-	
-}
+	}
